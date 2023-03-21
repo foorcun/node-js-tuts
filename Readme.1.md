@@ -33,7 +33,7 @@ npm install -g yarn
 yarn add json-server
 ```
 
-## add serve-json
+## add serve-json to package.json
 ```.sh
  "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
