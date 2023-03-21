@@ -1,4 +1,5 @@
-# step 0 - 
+# step 0 -
+[youtube](https://www.youtube.com/watch?v=_1kNqAybxW0&list=PLC3y8-rFHvwhc9YZIdqNL5sWeTCGxF4ya)
 ## create db.json file
 ## import json-server module
 [doc](https://github.com/typicode/json-server)
